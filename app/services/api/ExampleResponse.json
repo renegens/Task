@@ -1,0 +1,889 @@
+{
+  "status": 1,
+  "message": "",
+  "data": {
+    "metabash": [
+      {
+        "ttt": "1:43",
+        "segments": [
+          {
+            "treno": "600",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "4.18",
+            "date1": "20180110",
+            "wra1_real": 4.42,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 5.12,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "6.01",
+            "date2": "20180110",
+            "typos": "21",
+            "delay": "0.24",
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 0
+              },
+              "b": {
+                "e": 8.4,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": 4,
+              "ta": 30,
+              "fb": 249,
+              "tb": 532,
+              "kr_poss": 1
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "1590",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "6.00",
+            "date1": "20180110",
+            "wra1_real": "6.00",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 6.3,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "7.36",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "1592",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "7.23",
+            "date1": "20180110",
+            "wra1_real": "7.23",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 7.53,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "8.59",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "1594",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "8.27",
+            "date1": "20180110",
+            "wra1_real": "8.27",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 8.57,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "10.03",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:43",
+        "segments": [
+          {
+            "treno": "590",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "9.41",
+            "date1": "20180110",
+            "wra1_real": "9.41",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 10.11,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "11.24",
+            "date2": "20180110",
+            "typos": "30",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "1596",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "10.43",
+            "date1": "20180110",
+            "wra1_real": "10.43",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 11.13,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "12.19",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:21",
+        "segments": [
+          {
+            "treno": "50",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "11.20",
+            "date1": "20180110",
+            "wra1_real": 12.14,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 12.44,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "12.41",
+            "date2": "20180110",
+            "typos": "10",
+            "delay": "0.54",
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 9.9
+              },
+              "b": {
+                "e": 8.4,
+                "k": 9.9
+              }
+            },
+            "seats": {
+              "fa": 13,
+              "ta": 36,
+              "fb": 181,
+              "tb": 226,
+              "kr_poss": 1
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "2590",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "12.52",
+            "date1": "20180110",
+            "wra1_real": "12.52",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 13.22,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "14.28",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:21",
+        "segments": [
+          {
+            "treno": "52",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "14.20",
+            "date1": "20180110",
+            "wra1_real": 15.09,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 15.39,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "15.41",
+            "date2": "20180110",
+            "typos": "10",
+            "delay": "0.49",
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 9.9
+              },
+              "b": {
+                "e": 8.4,
+                "k": 9.9
+              }
+            },
+            "seats": {
+              "fa": 16,
+              "ta": 30,
+              "fb": 149,
+              "tb": 226,
+              "kr_poss": 1
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "2592",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "14.50",
+            "date1": "20180110",
+            "wra1_real": "14.50",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 15.2,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "16.26",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "2594",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "16.45",
+            "date1": "20180110",
+            "wra1_real": "16.45",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 17.15,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "18.21",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:22",
+        "segments": [
+          {
+            "treno": "56",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "18.24",
+            "date1": "20180110",
+            "wra1_real": 19.24,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 19.54,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "19.46",
+            "date2": "20180110",
+            "typos": "10",
+            "delay": "1.00",
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 9.9
+              },
+              "b": {
+                "e": 8.4,
+                "k": 9.9
+              }
+            },
+            "seats": {
+              "fa": 17,
+              "ta": 30,
+              "fb": 148,
+              "tb": 226,
+              "kr_poss": 1
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "2598",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "19.00",
+            "date1": "20180110",
+            "wra1_real": "19.00",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 19.3,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "20.36",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:22",
+        "segments": [
+          {
+            "treno": "58",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "20.17",
+            "date1": "20180110",
+            "wra1_real": 20.41,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 21.11,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "21.39",
+            "date2": "20180110",
+            "typos": "10",
+            "delay": "0.24",
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 9.9
+              },
+              "b": {
+                "e": 8.4,
+                "k": 9.9
+              }
+            },
+            "seats": {
+              "fa": 16,
+              "ta": 36,
+              "fb": 197,
+              "tb": 240,
+              "kr_poss": 1
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:36",
+        "segments": [
+          {
+            "treno": "3590",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "21.09",
+            "date1": "20180110",
+            "wra1_real": "21.09",
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 21.39,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "22.45",
+            "date2": "20180110",
+            "typos": "15",
+            "delay": 0,
+            "dogsIss": "0",
+            "dogsMax": 0,
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 0,
+                "b": 0
+              },
+              "anergoi": {
+                "a": 0,
+                "b": 0
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 14,
+                "k": 0
+              },
+              "b": {
+                "e": 14,
+                "k": 0
+              }
+            },
+            "seats": {
+              "fa": "\"--\"",
+              "ta": "\"--\"",
+              "fb": "\"--\"",
+              "tb": "\"--\"",
+              "kr_poss": 0
+            }
+          }
+        ]
+      },
+      {
+        "ttt": "1:22",
+        "segments": [
+          {
+            "treno": "60",
+            "ddro": "20180110",
+            "apo": "\u039b\u0391\u03a1\u0399",
+            "wra1": "22.19",
+            "date1": "20180110",
+            "wra1_real": 23.22,
+            "date1_real": "20180110",
+            "wra1_issuing_limit": 23.52,
+            "date1_issuing_limit": "20180110",
+            "ews": "\u0398\u0395\u03a3\u03a3",
+            "wra2": "23.41",
+            "date2": "20180110",
+            "typos": "10",
+            "delay": "1.03",
+            "dogsIss": "0",
+            "dogsMax": "2",
+            "offers": {
+              "a": [],
+              "b": []
+            },
+            "nya": 0,
+            "counted_offers": {
+              "ggng": {
+                "a": 1000,
+                "b": 1000
+              },
+              "isic": {
+                "a": 1000,
+                "b": 1000
+              }
+            },
+            "cost": {
+              "a": {
+                "e": 11.7,
+                "k": 9.9
+              },
+              "b": {
+                "e": 8.4,
+                "k": 9.9
+              }
+            },
+            "seats": {
+              "fa": 17,
+              "ta": 30,
+              "fb": 190,
+              "tb": 226,
+              "kr_poss": 1
+            }
+          }
+        ]
+      }
+    ],
+    "epistrofh": null
+  }
+}
