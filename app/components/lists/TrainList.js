@@ -1,57 +1,56 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react'
 import {
-    AppRegistry,
-    FlatList,
-    StyleSheet,
-    Text,
-    View
-} from 'react-native';
+  ActivityIndicator,
+  ListView,
+  Text,
+  View,
+  StyleSheet
+} from 'react-native'
 
-import api from '../../services/api/TrainsSchedule';
+import api from '../../services/api/TrainsSchedule'
+import TrainRow from './Row'
+import TrainDetails from './TrainDetails'
 
 class TrainList extends Component {
 
-    constructor(props) {
-        super(props);
-        this.state = {
-          schedule: []
-        }
+  constructor (props) {
+    super(props)
+    this.state = {
+      schedule: [],
+      isLoading: true
+
+    }
+  }
+
+  componentDidMount () {
+    api.getSchedule().then((response) => {
+      this.setState({
+        isLoading: false,
+        schedule: response.data.metabash
+      })
+    })
+  }
+
+  renderTrainSchedule () {
+    return this.state.schedule.map(metabasi =>
+      <TrainDetails key={metabasi.ttt} metabasi={metabasi}/>)
+  }
+
+  render () {
+    if (this.state.isLoading) {
+      return (
+        <View style={{flex: 1, paddingTop: 50}}>
+          <ActivityIndicator/>
+        </View>
+      )
     }
 
-    componentDidMount() {
-        api.getSchedule().then((response) => {
-            this.setState({
-                schedule: response.data.metabash
-            })
-        });
-    }
-
-    renderTrains() {
-      return this.state.schedule.map(ride => <Text>{ride.ttt}</Text>)
-    }
-
-    render() {
-
-
-      console.log(this.state)
-        return (
-            <View>
-              {this.renderTrains()}
-            </View>
-        );
-    }
+    return (
+      <View>
+        {this.renderTrainSchedule}
+      </View>
+    )
+  }
 }
 
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        paddingTop: 22
-    },
-    item: {
-        padding: 10,
-        fontSize: 18,
-        height: 44,
-    },
-});
-
-export default TrainList;
+export default TrainList
