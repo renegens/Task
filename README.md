@@ -1,3 +1,3 @@
 # Task
 Playing around with react-native
-![alt text](https://raw.githubusercontent.com/renegens/task/branch/master/screenshots/layout.png)
+![alt text](https://github.com/renegens/Task/blob/master/screenshots/layout.png)
